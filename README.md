@@ -1,2 +1,2 @@
 # CLI-Planner-Rust
-Command line planner in Rust
+Command line planner written in Rust.
